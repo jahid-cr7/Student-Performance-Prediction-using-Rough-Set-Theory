@@ -6,7 +6,7 @@ Follow these steps to publish your project on GitHub.
 
 ```bash
 # Navigate to your project directory
-cd C:\Users\chrom\Code\ground\zonaid\24_11_25
+cd C:\Users\chrom\Code\ground\jahid\24_11_25
 
 # Initialize git repository
 git init
@@ -32,7 +32,7 @@ git commit -m "Initial commit: Rough Set Theory for Student Performance Predicti
 
 ```bash
 # Add remote repository
-git remote add origin https://github.com/Zonaid007/rough-set-student-performance.git
+git remote add origin https://github.com/jahid-cr7/Student-Performance-Prediction-using-Rough-Set-Theory.git
 
 # Rename branch to main (if needed)
 git branch -M main

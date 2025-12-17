@@ -2,8 +2,8 @@
 Rough Set Theory for Student Performance Prediction
 CS0447 - Computer Organization and Assembly Language Project
 
-Author: Zonaid007
-GitHub: https://github.com/Zonaid007/rough-set-student-performance
+Author: jahid-cr7
+GitHub: https://github.com/jahid-cr7/Student-Performance-Prediction-using-Rough-Set-Theory.git
 
 This implementation demonstrates:
 1. Rough Set Attribute Reduction (Reduct)

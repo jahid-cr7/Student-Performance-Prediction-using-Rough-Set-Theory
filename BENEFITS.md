@@ -1,6 +1,6 @@
 # How to Benefit from This Project
 
-This document outlines various ways you (Zonaid007) and others can benefit from this Rough Set Theory project.
+This document outlines various ways you (jahid-cr7) and others can benefit from this Rough Set Theory project.
 
 ## 🎓 Academic Benefits
 

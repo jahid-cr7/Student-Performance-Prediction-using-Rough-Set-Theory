@@ -47,7 +47,7 @@ In this project, we demonstrate how reducing attributes from 11 to 5 features ca
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Zonaid007/rough-set-student-performance.git
+git clone https://github.com/jahid-cr7/Student-Performance-Prediction-using-Rough-Set-Theory.git
 cd rough-set-student-performance
 ```
 
@@ -202,10 +202,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Zonaid007**
+**jahid-cr7**
 
-- GitHub: [@Zonaid007](https://github.com/Zonaid007)
-- Project Link: [https://github.com/Zonaid007/rough-set-student-performance](https://github.com/Zonaid007/rough-set-student-performance)
+- GitHub: [@jahid-cr7](https://github.com/jahid-cr7)
+- Project Link: [https://github.com/jahid-cr7/Student-Performance-Prediction-using-Rough-Set-Theory.git]
 
 ## 🙏 Acknowledgments
 
@@ -233,5 +233,6 @@ This project can be used for:
 
 ⭐ If you find this project helpful, please give it a star on GitHub!
 
-#   S t u d e n t - P e r f o r m a n c e - P r e d i c t i o n - u s i n g - R o u g h - S e t - T h e o r y  
+#   S t u d e n t - P e r f o r m a n c e - P r e d i c t i o n - u s i n g - R o u g h - S e t - T h e o r y 
+ 
  
